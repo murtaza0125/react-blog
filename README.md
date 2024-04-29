@@ -1,3 +1,5 @@
+This fork was updated by Murtaza Ali
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
